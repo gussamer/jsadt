@@ -1,0 +1,29 @@
+{
+    "name": "jsadt",
+    "version": "1.0.0",
+    "description": "A javascript based application development toolkit I wrote a few years ago which probably could use some updating",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gussamer/jsadt.git"
+    },
+    "keywords": [
+        "javascript",
+        "application",
+        "development",
+        "toolkit"
+    ],
+    "author": "Angus Alves",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gussamer/jsadt/issues"
+    },
+    "homepage": "https://github.com/gussamer/jsadt#readme",
+    "engines": {
+        "node": "^4.4.5"
+    }
+}
